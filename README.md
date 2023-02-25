@@ -1,1 +1,1 @@
-# AlgoritmStudy-9th
+# Koala-AlgoritmStudy-9th 🐨
